@@ -19,10 +19,10 @@ The dashboard provides insights into service requests / operational tickets and 
 
 ## 📁 Files
 
-- `project_4_dashboard_final.xlsx` – raw data + KPI dashboard + metrics
+- `dashboard.xlsx` – raw data + KPI dashboard + metrics
 - `Raw Data` sheet contains operational logs
 - `KPI Dashboard` sheet contains calculated KPIs with formulas
-- Pivot Tables and Charts to be added per instructions
+- Pivot Tables and Charts
 
 ---
 
@@ -44,5 +44,5 @@ The dashboard provides insights into service requests / operational tickets and 
 
 1. Open `project_4_dashboard_final.xlsx`
 2. Review metrics in `KPI Dashboard`
-3. Add Pivot Tables for deeper insights
+3. Review Pivot Tables for deeper insights
 4. Explore Excel-based automation and dashboards
