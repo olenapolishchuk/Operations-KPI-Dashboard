@@ -40,6 +40,9 @@ The dashboard provides insights into service requests / operational tickets and 
 
 ---
 
+License: [MIT](LICENSE)
+
+
 ## 📎 Usage
 
 1. Open `project_4_dashboard_final.xlsx`
