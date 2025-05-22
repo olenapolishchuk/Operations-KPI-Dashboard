@@ -40,12 +40,16 @@ The dashboard provides insights into service requests / operational tickets and 
 
 ---
 
-License: [MIT](LICENSE)
-
-
 ## 📎 Usage
 
 1. Open `project_4_dashboard_final.xlsx`
 2. Review metrics in `KPI Dashboard`
 3. Review Pivot Tables for deeper insights
 4. Explore Excel-based automation and dashboards
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
